@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lde_test", "lde_test\lde_test.csproj", "{583396E5-4061-40C9-8158-7759BC7A7B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lde_unittest", "..\lde_unittest\lde_unittest\lde_unittest.csproj", "{8578FAE1-0077-4AA0-96A7-2F0C38320994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583396E5-4061-40C9-8158-7759BC7A7B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583396E5-4061-40C9-8158-7759BC7A7B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583396E5-4061-40C9-8158-7759BC7A7B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583396E5-4061-40C9-8158-7759BC7A7B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8578FAE1-0077-4AA0-96A7-2F0C38320994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8578FAE1-0077-4AA0-96A7-2F0C38320994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8578FAE1-0077-4AA0-96A7-2F0C38320994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8578FAE1-0077-4AA0-96A7-2F0C38320994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AE7750-0B74-4DC3-8DB9-427B70EA8A29}
+	EndGlobalSection
+EndGlobal
