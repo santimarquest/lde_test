@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lde_test", "lde_test\lde_test.csproj", "{583396E5-4061-40C9-8158-7759BC7A7B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lde_unittest", "..\lde_unittest\lde_unittest\lde_unittest.csproj", "{8578FAE1-0077-4AA0-96A7-2F0C38320994}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lde_unittest", "lde_unittest\lde_unittest.csproj", "{8578FAE1-0077-4AA0-96A7-2F0C38320994}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
